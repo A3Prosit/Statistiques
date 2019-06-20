@@ -1,6 +1,6 @@
-#Statistique descriptive
+# Statistique descriptive
 
-##I.        Mots clés
+## I.        Mots clés
 -	Jeu de données
 -	Tendance
 -	Brain storming
