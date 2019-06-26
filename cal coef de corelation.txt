@@ -1,0 +1,11 @@
+coef de correlation
+
+on cal la moyenne de x µx et moyenne de y µy
+on calc la variance avec vx = somme(xi²)/n -µx² (forme diff de la formule de base vx = somme(xi-µx)²/n
+on cal la variance de y
+on calc l'écart type de x et y où sigma_x = sqrt(vx)
+on calc la covariance : sigma_xy = (somme(xi*yi)/n ) - (µx*µy)
+
+le coef de corelation r = covariance/(écart type de y *écart type <=> r = sigma_xy/(sigma_x*sigma_y)
+
+et le coef directeur de la droite a = covariance / variance de x donc a = sigma_xy/(vx)
